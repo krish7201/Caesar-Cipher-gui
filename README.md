@@ -20,3 +20,7 @@
   1. [Sokhanndara, Kris - Project Proposal.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11131998/Sokhanndara.Kris.-.Project.Proposal.pdf)
   2. [Sokhanndara, Kris - Project Update.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132000/Sokhanndara.Kris.-.Project.Update.pdf)
   3. [Sokhanndara, Kris - Final Project.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132001/Sokhanndara.Kris.-.Final.Project.pdf)
+- Also check our PowerPoints for even more information! ->
+  1. [Sokhanndara, Kris - Project Proposal.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132233/Sokhanndara.Kris.-.Project.Proposal.pdf)
+  2. [Sokhanndara, Kris - Project Update PPT.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132234/Sokhanndara.Kris.-.Project.Update.PPT.pdf)
+  3. [Sokhanndara, Kris - Final Project.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132235/Sokhanndara.Kris.-.Final.Project.pdf)
