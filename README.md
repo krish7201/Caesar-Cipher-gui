@@ -13,7 +13,7 @@
 ## Note
 - Sokhanndara's code is with the comments that are more spaced out, mine (Kris's) are with the comments that are more close together with the code.
 - The username/password is: CoolKid99/something
-- We used documents relavent to the founding of the United States as test files! :) Goodness gosh golly darn bless the U S of A! 🇺🇸
+- We used documents relavent to the founding of the United States as test files! :) God bless the U S A! 🇺🇸
 - Code can be found in the "src" folder, the file structure of this repository is a mirror image of the file structure used for the IDE intelliJ. 
 - I (Kris) designed the GUI and consulted Sokhanndara.
 - Check out our report PDFs for more detailed information -> 
