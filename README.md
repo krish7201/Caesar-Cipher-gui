@@ -16,3 +16,4 @@ To install,
 - We used documents relavent to the founding of the United States as test files! :) Goodness gosh golly darn bless the U S of A! 🇺🇸
 - Code can be found in the "src" folder, the file structure of this repository is a mirror image of the file structure used for the IDE intelliJ. 
 - I (Kris) designed the GUI and consulted Sokhanndara.
+- Check out our final report PDF for more detailed information.
