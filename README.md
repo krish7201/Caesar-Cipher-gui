@@ -4,7 +4,6 @@
 - Our project is tiered, user view and admin view. We emulated the lite vs premium user theme found in a lot of mobile/other applications, where lite users have less access to functionality than premium users.
 
 ## Install
-To install, 
 1. Download the files to some folder and unzip the files
 2. install the latest JDK (https://www.oracle.com/java/technologies/downloads)
 3. associate the .jar file in the files folder with (javaw.exe) (Windows 10/11 right click on the .jar file -> click "open with" -> click "choose another app" -> scroll to bottom of list and press "choose an app on your PC" -> navigate to [C:\Program Files\Java\jdk-{version#}\bin] and choose javaw.exe [java.exe is reccomended online, but I've found javaw.exe is the one that works for me])
