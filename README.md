@@ -2,6 +2,7 @@
 ## Description
 - This is a Caesar Cipher program with a GUI that me and my group mate Sokkhandara made for our cyber security class project.
 - Our project is tiered, user view and admin view. We emulated the lite vs premium user theme found in a lot of mobile/other applications, where lite users have less access to functionality than premium users.
+- Some functionality of this project includes things like hashed username/password for safe storing and percent likelihood of the decrypted string being the string that was encrypted
 
 ## Install
 1. Download the files to some folder and unzip the files
