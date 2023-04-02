@@ -17,6 +17,6 @@
 - Code can be found in the "src" folder, the file structure of this repository is a mirror image of the file structure used for the IDE intelliJ. 
 - I (Kris) designed the GUI and consulted Sokhanndara.
 - Check out our report PDFs for more detailed information -> 
-  1. [Sokhanndara Heng, Kristopher Honetschlager - Project Proposal.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131951/Sokhanndara.Heng.Kristopher.Honetschlager.-.Project.Proposal.pdf)
-  2. [Sokhanndara Heng, Kristopher Honetschlager - Project Update.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131952/Sokhanndara.Heng.Kristopher.Honetschlager.-.Project.Update.pdf)
-  3. [Sokhanndara Heng, Kristopher Honetschlager - Final Project.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131953/Sokhanndara.Heng.Kristopher.Honetschlager.-.Final.Project.pdf)
+  1. [Sokhanndara, Kris - Project Proposal.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11131998/Sokhanndara.Kris.-.Project.Proposal.pdf)
+  2. [Sokhanndara, Kris - Project Update.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132000/Sokhanndara.Kris.-.Project.Update.pdf)
+  3. [Sokhanndara, Kris - Final Project.pdf](https://github.com/krish7201/CS-466-02-Final-Project-Caesar-Cipher-GUI/files/11132001/Sokhanndara.Kris.-.Final.Project.pdf)
