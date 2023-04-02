@@ -16,4 +16,7 @@
 - We used documents relavent to the founding of the United States as test files! :) Goodness gosh golly darn bless the U S of A! 🇺🇸
 - Code can be found in the "src" folder, the file structure of this repository is a mirror image of the file structure used for the IDE intelliJ. 
 - I (Kris) designed the GUI and consulted Sokhanndara.
-- Check out our final report PDF for more detailed information -> ([Sokhanndara Heng, Kristopher Honetschlager - Final Project.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131849/Sokhanndara.Heng.Kristopher.Honetschlager.-.Final.Project.pdf))
+- Check out our report PDFs for more detailed information -> 
+  1. [Sokhanndara Heng, Kristopher Honetschlager - Project Proposal.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131951/Sokhanndara.Heng.Kristopher.Honetschlager.-.Project.Proposal.pdf)
+  2. [Sokhanndara Heng, Kristopher Honetschlager - Project Update.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131952/Sokhanndara.Heng.Kristopher.Honetschlager.-.Project.Update.pdf)
+  3. [Sokhanndara Heng, Kristopher Honetschlager - Final Project.pdf](https://github.com/krish7201/CS-466-02-Caesar-Cipher-GUI/files/11131953/Sokhanndara.Heng.Kristopher.Honetschlager.-.Final.Project.pdf)
