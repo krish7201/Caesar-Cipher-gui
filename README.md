@@ -4,6 +4,7 @@
 - Our project is tiered, user view and admin view. We emulated the lite vs premium user theme found in a lot of mobile/other applications, where lite users have less access to functionality than premium users.
 - Some noteworthy functionality of this application includes things like hashed username/password for safe storing and percent likelihood of the decrypted string being the string that was encrypted!
 
+<img width="182" alt="Screenshot 2023-04-03 115332" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png">
 <img width="404" alt="Screenshot 2023-04-02 055142" src="https://user-images.githubusercontent.com/44722635/229576122-eb0f36ce-2118-478a-8b75-2c8611f87df5.png">
 
 ## Install
