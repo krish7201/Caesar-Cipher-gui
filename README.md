@@ -1,6 +1,6 @@
-# CS 466-02 Final Project: Caesar Cipher GUI
+# Caesar Cipher GUI
 ## Description
-- This is a Caesar Cipher program with a GUI that me and my group mate Sokkhandara made for our cyber security class project.
+- This is a Caesar Cipher program with a nice GUI that me and my group mate Sokkhandara made for our cyber security class project.
 - Our project is tiered, user view and admin view. We emulated the lite vs premium user theme found in a lot of mobile/other applications, where lite users have less access to functionality than premium users.
 - Some noteworthy functionality of this application includes things like hashed username/password for safe storing and percent likelihood of the decrypted string being the string that was encrypted (using recursive binary search tree sorting algorithm when looking through dictionary for speed).
 
